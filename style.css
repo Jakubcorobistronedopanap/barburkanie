@@ -1,4 +1,4 @@
-﻿.naglowek {
+.naglowek {
 	text-align: center;
 	color: white;
 }
@@ -27,19 +27,19 @@
 .gif1 {
 	position: absolute;
 	left: 750px;
-	top: 750px;
+	top: 860px;
 }
 	
 .gif2{
 	position: absolute;
 	left: 850px;
-	top: 1000px;
+	top: 1110px;
 }
 
 .gif3{
 	position: absolute;
 	left: 750px;
-	top: 1250px;
+	top: 1360px;
 }
 
 .linia2 {
@@ -56,4 +56,12 @@
 
 body {
 	background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(61,61,61,1) 47%);
+}
+
+p {
+	color: white;
+}
+
+.dzwiek {
+	text-align: center;
 }
