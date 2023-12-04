@@ -1,0 +1,42 @@
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css" type="text/css" media="all">
+<title> Tytuł strony Barbórka i tego typu </title>
+</head>
+<body> 
+<article class="naglowek"> <h1> Strona o górniku, Barbarze i tego typu </h1> </article>
+<hr class="linia1">
+<div class="klasa1">
+<p> <b> Barbórka </b> (dawna pisownia Barburka), <b> Dzień Górnika </b> – 
+tradycyjne święto górnicze, obchodzone w Polsce 4 grudnia, w dniu św. Barbary z Nikomedii, 
+patronki dobrej śmierci i trudnej pracy. Poza górnikami Barbórkę obchodzą także geolodzy 
+i inne osoby wykonujące zawody związane z poszukiwaniem paliw kopalnych. <p>
+</div>
+<br>
+<br>
+<hr class="linia1">
+<div class="klasa2"> 
+<p> Odcinek Bolka i Lolka o tematyce górniczej: </p>
+<video width="320" height="240" controls>
+  <source src="videoplayback.mp4" type="video/mp4">
+  <source src="videoplayback.ogg" type="video/ogg">
+</div>
+<hr class="linia2">
+<div class="gif1">
+<img src="282-carb_n.gif" alt="pierwszy ziomek" width="320" height="240">
+</div>
+<div class="gif2">
+<img src="innanazwa.gif" alt="drugi ziomek" width="320" height="240">
+</div>
+<p> https://hispanic-net.org/pl/oto-dlaczego-%C5%9Awi%C4%99ty-miko%C5%82aj-daje-w%C4%99giel-niegrzecznym-dzieciom-na-bo%C5%BCe-narodzenie/ <p>
+<div class="gif3">
+<img src="tenorek.gif" alt="trzeci ziomek" width="320" height="240">
+</div>
+<div class="kolejnytekst">
+<h1> Dlaczego niegrzeczne dzieci dostają węgiel pod choinkę? </h1>
+<h2> w ‘the toy-Makers strike, który został napisany przez Ruth Catherine Wood w 1918 roku, <br>
+ opowiada o tym, jak elfy Mikołaja strajkują, a niegrzeczny chłopiec dostaje ogromną lalkę, <br>
+ a słodka dziewczynka kończy z bryłą węgla. Podobnie, w opowiadaniu Myrona Adamsa z 1912 r. “A Prince of Good Fellows”, <br>
+ fakt, że chłopiec o dobrym sercu imieniem Tom otrzymuje węgiel w pończochach, prowadzi do zamieszania. <br> </h2>
+</div>
