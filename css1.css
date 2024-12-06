@@ -1,0 +1,85 @@
+* {
+	margin: 0px;
+}
+
+.baton1, .baton2, .baton3 {
+	background-color: white;
+	border: outset brown 5px;
+	width: 250px;
+	float: right;
+	margin: 30px;
+	margin-right: 150px;
+	margin-top: 100px;
+	text-align: center;
+	padding-top: 11px;
+	padding-bottom: 11px;
+
+	
+}
+.slimak {
+	clear: both;
+}
+
+.baner {
+	background-color: RGB(241, 228, 176);
+}
+
+.baton1:hover {
+	background-color: RGB(159, 159, 159);
+	cursor: pointer;
+	
+}
+
+.baton2:hover {
+	background-color: RGB(159, 159, 159);
+	cursor: pointer;
+}
+
+.baton3:hover {
+	background-color: RGB(159, 159, 159);
+	cursor: pointer;
+}
+
+a {
+	color: orange;
+	
+
+}
+
+a:visited {
+	color: darkgreen;
+}
+
+.lewy {
+	background-color: RGB(254, 251, 218);
+	width: 25%;
+	height: 450px;
+}
+
+ol {
+	color: red;
+}
+
+ul {
+	color: green;
+}
+
+li:last-child ul {
+	color: grey;
+}
+
+.prawy {
+	width: 450px;
+	float: right;
+	margin-right: 500px;
+}
+
+.stopka {
+	padding-top: 10px;
+	font-size: 120%;
+	clear: both;
+	background-color: RGB(255, 127, 39);
+	height: 30px;
+	color: white;
+	text-align: center;
+}

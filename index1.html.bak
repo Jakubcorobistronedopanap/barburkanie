@@ -1,0 +1,38 @@
+<html lang="pl-PL">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="css1.css" media="all">
+<title> Żabskie witryny </title>
+</head>
+<body>
+<div class="baner">
+<img  class="slimak" src="rysunek_slimak.svg" alt="Kamil Ślimak" width="250px" height="250px">
+<div class="baton1"><a href="index2.html">Żaba3</a></div>
+<div class="baton2"><a href="index1.html">Żaba2</a></div>
+<div class="baton3"><a href="index.html">Żaba1</a></div>
+</div>
+<div class="prawy">
+<img src="rysunek.svg" alt="żaba">
+</div>
+<div class="lewy">
+<ol type="I">
+	<li> Żaby 
+		<ul type="disc" class="kolor1">
+			<li>Leśna </li>
+			<li>Wodna </li>
+		</ul>
+	</li>
+<li> Ropuchy 
+		<ul type="square" class="kolor2">
+			<li>Szare </li>
+			<li>Zielone </li>
+		</ul>
+	</li>
+</li>
+</ol>
+
+</div>
+
+<div class="stopka"><p> Autor: Jakub Maćkowski </p></div>
+</body>
+</html>
